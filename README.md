@@ -1,7 +1,5 @@
 # Flappy Bird AI using NEAT
 
-![Flappy Bird AI](flappy_bird_ai.png)
-
 ## Overview
 
 This project implements an AI-controlled Flappy Bird game using NEAT (NeuroEvolution of Augmenting Topologies), a popular genetic algorithm for evolving artificial neural networks. The AI learns to play the game by training multiple generations of bird agents using NEAT, improving their performance over time to achieve higher scores.
